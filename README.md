@@ -4,7 +4,7 @@ A **Streamlit-powered** web app that allows users to **generate personalized col
 
 ---
 
-## **Features**  
+## **Features** 
 
 ✔ **Customizable Inputs** – Enter your name, recipient's name, company, purpose, and a custom message.  
 ✔ **Instant Email Generation** – Generates a **well-structured** email in seconds.  

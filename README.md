@@ -13,7 +13,7 @@ A **Streamlit-powered** web app that allows users to **generate personalized col
 
 ---
 
-## **Installation**  
+## **Installation** 
 
 ### **Prerequisites**  
 Ensure you have Python installed. Then, install the required dependencies:  
